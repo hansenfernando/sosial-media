@@ -128,7 +128,7 @@ metadata:
      nginx.ingress.kubernetes.io/session-cookie-hash: sha1
 spec:
   rules:
-  - host: pesbuk.hansenfernando.xyz      
+  - host: pesbukcilsy.hansenfernando.xyz      
     http:
       paths:
         - backend:
