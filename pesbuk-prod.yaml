@@ -46,7 +46,7 @@ data:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: macross-prod
+  namespace: cilsy-prod
   name: pesbuk-prod
   labels:
     app: pesbuk-prod
